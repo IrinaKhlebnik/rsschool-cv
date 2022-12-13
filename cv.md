@@ -66,6 +66,6 @@ April 2022 - June 2022
 Software Functional Testing course.
 
 September 2009 - July 2014
-Belarusian State University of Informatics and Radioelectronics. 
-#### Faculty: Engineering and Economics. 
-####Specialty: Economics and organization of production
+#### Belarusian State University of Informatics and Radioelectronics. 
+Faculty: Engineering and Economics. 
+Specialty: Economics and organization of production
