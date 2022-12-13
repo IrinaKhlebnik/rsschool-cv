@@ -62,10 +62,10 @@ working with this software for employees of other departments;
 for the company and embedded 1C ZUP application via help of IT specialists’ team.
 #### _EDUCATION_
 April 2022 - June 2022
-Educational Center of High-Tech Park.
+#### Educational Center of High-Tech Park.
 Software Functional Testing course.
 
 September 2009 - July 2014
 Belarusian State University of Informatics and Radioelectronics. 
-Faculty: Engineering and Economics. 
-Specialty: Economics and organization of production
+#### Faculty: Engineering and Economics. 
+####Specialty: Economics and organization of production
