@@ -46,10 +46,10 @@ Following tasks were performed:
 * Test result reporting,
 * Working in tracking system Jira.
 #### __Accountant__
-_August 2021_ – present Jenty company
-_September 2019_ – June 2021 Japan Tobacco International company 
-_September 2015_ – September 2019 Defacto company
-_August 2014_ – September 2015 Minsk State Mechanic-Technological College
+#### _August 2021_ – present Jenty company
+#### _September 2019_ – June 2021 Japan Tobacco International company 
+#### _September 2015_ – September 2019 Defacto company
+#### _August 2014_ – September 2015 Minsk State Mechanic-Technological College
 Achievements:
 * tested and implemented with the team of IT-specialists the application for
 invoices loading automation to 1C, which helped to reduce the time for inventory 
