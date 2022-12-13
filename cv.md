@@ -45,7 +45,7 @@ Following tasks were performed:
 * Results gathering and analysis,
 * Test result reporting,
 * Working in tracking system Jira.
-####__Accountant__
+#### __Accountant__
 _August 2021_ – present Jenty company
 _September 2019_ – June 2021 Japan Tobacco International company 
 _September 2015_ – September 2019 Defacto company
