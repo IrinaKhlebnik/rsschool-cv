@@ -34,8 +34,8 @@ Databases: MySQL;
 Accounting software: 1C 7, 8, SAP Hanna.
 #### _WORK EXPERIENCE_
 *May 2022 – June 2022*
-Educational Center of High-Tech Park, Software Functional Testing course.
-Project:
+#### Educational Center of High-Tech Park, Software Functional Testing course.
+#### Project:
 Oz Liveness demo application, Liveness part. Liveness mobile and web application for 
 user registration and authentication.
 Following tasks were performed:
