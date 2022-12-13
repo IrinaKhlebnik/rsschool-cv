@@ -3,7 +3,7 @@
 #### Email irina.khlebnik1991@gmail.com
 #### Skype Irina Khlebnik
 #### _SUMMARY_
-##### I’m looking for a job as Junior QA or QA Trainee. 
+I’m looking for a job as Junior QA or QA Trainee. 
 I have completed the courcses of Software testing 
 and have some practical experience in manual 
 testing.
