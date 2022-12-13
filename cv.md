@@ -60,3 +60,12 @@ creating requests for payments of goods and services, prepared instructions for
 working with this software for employees of other departments;
 * automated the payroll working field through UX-testing, adapted the features 
 for the company and embedded 1C ZUP application via help of IT specialists’ team.
+#### _EDUCATION_
+April 2022 - June 2022
+Educational Center of High-Tech Park.
+Software Functional Testing course.
+
+September 2009 - July 2014
+Belarusian State University of Informatics and Radioelectronics. 
+Faculty: Engineering and Economics. 
+Specialty: Economics and organization of production
