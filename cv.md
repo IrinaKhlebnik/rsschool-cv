@@ -15,3 +15,14 @@ challenges, because it motivates me and develops
 creativity. 
 I am also sociable, flexible, open to new 
 opportunities and passionate to learn new things.
+#### _SKILLS_
+1. Functional requirements analysis.
+Test Documentation creation: Test Cases, Check-lists.
+Functional testing: Smoke, New Features, Regression, Ad-Hoc, Acceptance, API testing.
+Non-functional testing: GUI, Usability.
+Bug reporting.
+Test result reports preparation.
+Testing tasks estimation.
+Have basic understanding of such Software development methodologies as Scrum, 
+Waterfall.
+English: Pre-intermediate.
