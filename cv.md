@@ -40,8 +40,25 @@ Oz Liveness demo application, Liveness part. Liveness mobile and web application
 user registration and authentication.
 Following tasks were performed:
 * Ad-hoc testing of the mobile application for Android and ad-hoc testing according to check-list,
-* Mobile Regression of the mobile application for Android according to testcases from TestRail,
+* Mobile Regression of the mobile application for Android according to test-cases from TestRail,
 * Bug reporting,
 * Results gathering and analysis,
 * Test result reporting,
 * Working in tracking system Jira.
+__Accountant__
+_August 2021_ – present Jenty company
+_September 2019_ – June 2021 Japan Tobacco International company 
+_September 2015_ – September 2019 Defacto company
+_August 2014_ – September 2015 Minsk State Mechanic-Technological College
+Achievements:
+* tested and implemented with the team of IT-specialists the application for
+invoices loading automation to 1C, which helped to reduce the time for inventory 
+accounting up to 70%;
+* prepared instructions and coached employees of other departments to work 
+with add-in software MyRequest to create requests for prepayment of goods and 
+services;
+* learned and improved the ways of working with the add-in tool EBA for 
+creating requests for payments of goods and services, prepared instructions for 
+working with this software for employees of other departments;
+* automated the payroll working field through UX-testing, adapted the features 
+for the company and embedded 1C ZUP application via help of IT specialists’ team.
